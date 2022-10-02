@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iTEtGP0FcjA8HZ+GWwTE9SuEN6qJcrGdBkxIxlGRwAk=",
+  "Source": "CrumusGateway",
+  "BasePath": "_content/CrumusGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
